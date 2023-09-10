@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/main-sitemap.xsl"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<sitemap>
+		<loc>/page-sitemap.xml</loc>
+		<lastmod>2022-05-02T19:47:10+00:00</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>/e-landing-page-sitemap.xml</loc>
+	</sitemap>
+	<sitemap>
+		<loc>/product-sitemap.xml</loc>
+		<lastmod>2020-08-07T10:32:09+00:00</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>/portfolio-sitemap.xml</loc>
+	</sitemap>
+	<sitemap>
+		<loc>/product_cat-sitemap.xml</loc>
+		<lastmod>2020-08-07T10:32:09+00:00</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>/product_tag-sitemap.xml</loc>
+		<lastmod>2020-08-07T10:32:09+00:00</lastmod>
+	</sitemap>
+</sitemapindex>

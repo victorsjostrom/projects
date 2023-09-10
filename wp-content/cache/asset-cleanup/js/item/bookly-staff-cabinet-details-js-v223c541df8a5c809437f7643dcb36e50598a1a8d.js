@@ -1,0 +1,3 @@
+/*!/wp-content/plugins/bookly-addon-staff-cabinet/frontend/modules/staff_details/resources/js/staff-cabinet-details.js*/
+(function($){window.booklyStaffDetails=function(Options){let $container=$('.'+Options.form_id),options={intlTelInput:BooklySCDetailsL10n.intlTelInput,l10n:BooklySCDetailsL10n,saving:function(alerts){$.each(alerts,function(type,messages){if(messages.length>0){window.booklyNativeAlert(messages.join('\n'))}})}};new BooklyStaffDetails($container,options)}})(jQuery)
+;
