@@ -1,18 +1,18 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="./main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>/shop/</loc>
+		<loc>./shop/index.html</loc>
 		<lastmod>2020-08-07T10:32:09+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/prodotto/prodotto-di-prova/</loc>
+		<loc>./prodotto/prodotto-di-prova/index.html</loc>
 		<lastmod>2020-08-04T09:49:19+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/prodotto/prodotto-2/</loc>
+		<loc>./prodotto/prodotto-2/index.html</loc>
 		<lastmod>2020-08-07T10:32:09+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/logo_sito-08.png</image:loc>
+			<image:loc>./wp-content/uploads/logo_sito-08.png</image:loc>
 			<image:title><![CDATA[logo_sito-08]]></image:title>
 		</image:image>
 	</url>
